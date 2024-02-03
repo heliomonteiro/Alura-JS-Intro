@@ -14,7 +14,7 @@ const nomeCompleto = primeiroNome + sobrenome;
 console.log(nomeCompleto);
 //nomeCompleto = 2;
 
-let idade; //declarando variavel
+//let idade; //declarando variavel
 idade = 26; //atribuindo valor
 idade = idade + 1;
 console.log(idade);
